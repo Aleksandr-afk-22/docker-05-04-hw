@@ -16,3 +16,20 @@
 
 ## Задача 4
 
+*создаём ВМ*
+![create](screenshots/create_vm.png)
+
+*запускаем скрипт*
+![script](screenshots/script.png)
+
+*проверка контейнеров*
+![ps](screenshots/ps.png)
+
+*проверка с https://check-host.net/check-http*
+![check](screenshots/chek.png)
+
+*запросы sql*
+![sql1](screenshots/sql1_cloud.png)
+
+![sql2](screenshots/sql2_cloud.png)
+
