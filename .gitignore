@@ -1,0 +1,17 @@
+# Секреты
+#.env
+
+# Python кэш и виртуальные окружения
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+
+# OS файлы
+.DS_Store
+Thumbs.db

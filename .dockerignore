@@ -1,0 +1,47 @@
+# Git
+.git
+
+# Environment files (СЕКРЕТЫ!)
+.env
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Docker files (не нужны внутри контейнера)
+Dockerfile
+Dockerfile.*
+.dockerignore
+compose.yaml
+docker-compose*.yaml
+
+# Proxy configs (нужны для compose, но не внутри контейнера)
+haproxy/
+nginx/
+proxy.yaml
+
+# Documentation
+README.md
+LICENSE
+schema.pdf
+
+# Homework (отчёты по заданиям и скриншоты)
+homework/
+homework.md
+
+# Backup files
+*.bak
+*.backup
