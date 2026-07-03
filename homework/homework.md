@@ -33,3 +33,13 @@
 
 ![sql2](screenshots/sql2_cloud.png)
 
+## Задача 6
+
+*запуск dive*
+![dive_setup](screenshots/dive_setup.png)
+
+*слой с terraform*
+![dive](screenshots/dive.png)
+
+*извлекаем через docker save*
+![extract](screenshots/extract.png)
